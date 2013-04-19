@@ -1,0 +1,9 @@
+C:\~Root\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\~Root\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\~Root\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
